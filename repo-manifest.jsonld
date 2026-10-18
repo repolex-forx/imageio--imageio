@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/imageio/imageio/commit/803b9ef192e393174d885000842aa7b1199ad608",
       "git:hexsha": "803b9ef192e393174d885000842aa7b1199ad608",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/imageio/imageio/commit/1a410e12d8d8194ba19fb1c4e435bdd0197d630c",
